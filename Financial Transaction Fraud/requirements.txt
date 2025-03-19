@@ -17,3 +17,6 @@ joblib
 scikeras
 nltk
 tensorboard
+hyperopt
+category_encoders
+Flask
