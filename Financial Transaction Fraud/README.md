@@ -14,3 +14,7 @@ A Flask-based web application for predicting transaction fraud using a pre-train
 ## Requirements
 - Python 3.8+
 - Flask, TensorFlow, Pandas, NumPy, Scikit-learn, Joblib
+
+### Output:
+
+![image](https://github.com/user-attachments/assets/bf0bca1e-0a97-4981-a562-6b5487b907c5)
